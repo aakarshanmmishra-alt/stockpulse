@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+#Enviroment Variables & Secrets\
+.env 
+#Build Files
+dist/
+build/
+# IDE files
+.vscode/
